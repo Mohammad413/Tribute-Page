@@ -1,0 +1,57 @@
+#title{
+    text-align: center;
+    font-family:'klee One';
+    
+    background-color:#e8e8e4
+    
+    }
+    body{
+        background-color:#e8e8e4
+    
+    }
+    
+    #image{
+      display:block;
+        width: 100%;
+        max-width: 700px;
+        margin: auto;
+    
+    
+    }
+     
+        
+    }
+    #under{
+        text-align: center;
+        font-family:'klee One';
+    }
+    
+    #tribute-info{
+        text-align: center;
+        font-family:'klee One';
+    }
+    #rest{
+        text-align: left;
+        font-family:'klee One';
+    }
+    
+    p{
+        text-align: center;
+    }
+    footer{
+        text-align: center;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
